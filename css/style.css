@@ -1,6 +1,11 @@
 @import "reset.css";
 @import url("https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap");
 @import "status-bar.css";
+@import "navi-bar.css";
+
+* {
+  box-sizing: border-box;
+}
 
 body {
   background-color: white;
